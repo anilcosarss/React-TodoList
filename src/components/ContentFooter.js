@@ -1,5 +1,5 @@
 import React from 'react'
-import { useTodo ,filter } from '../contexts/TodoContext';
+import { useTodo} from '../contexts/TodoContext';
 
 function ContentFooter() {
 
